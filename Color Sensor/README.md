@@ -14,7 +14,7 @@ Only Colors features are supported for the release.
 ## Requeriments
 ### SoftAPD9960:
 
-* [SoftI2CMaster](https://github.com/felias-fogg/SoftI2CMaster "SoftI2CMaster") adjusted for this application, can be download here the changed library.
+* [SoftI2CMaster](https://github.com/felias-fogg/SoftI2CMaster "SoftI2CMaster") adjusted for this application, can be download [here](https://github.com/MaiconSoft/Arduino/tree/master/Color%20Sensor/Requeiments/SoftI2CMaster) the changed library.
 
 ### SparkFun_APDS9960
 * [SparkFun_APDS9960](https://github.com/sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library "SparkFun_APDS9960")
